@@ -1,6 +1,6 @@
 # CORTEx Project
 
-The final notebooks are `Pipeline_Groq.ipynb` and `Pipeline_OpenAI.ipynb`. 
+The final notebooks are `Pipeline_Groq.ipynb`.
 
 ## Prerequisites
 
