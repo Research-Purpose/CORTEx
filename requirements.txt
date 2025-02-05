@@ -1,0 +1,17 @@
+opencv-python
+pillow
+pandas 
+numpy
+pyenchant
+levenshtein
+thefuzz
+python-dotenv
+groq
+json_repair
+openai
+google
+google.cloud
+google.api_core
+google.cloud.vision
+vertexai
+streamlit
